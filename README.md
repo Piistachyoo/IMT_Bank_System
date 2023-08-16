@@ -1,8 +1,10 @@
 
 # IMT_Bank_System
 
-Admin username: 1346
-Admin password: 6431
+##### Admin username: 1346
+
+##### Admin password: 6431
+
 ** Admin username and password are defined in admin.h file and can be changed **
 
 Features:
